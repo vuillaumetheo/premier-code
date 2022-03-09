@@ -1,0 +1,7 @@
+body {
+    background-color: black;
+    color: white;
+}
+body h1, h2 {
+    color: yellow;
+}
