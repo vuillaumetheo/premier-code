@@ -1,7 +1,7 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
 }
 body h1, h2 {
-    color: yellow;
+    color: red;
 }
